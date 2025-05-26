@@ -166,7 +166,7 @@ header {
     position: relative;
     overflow: hidden;
     height: 100vh;
-  background: url('/img/57336a63e2420fdc24096144e5e7239d.jpg') center center / cover no-repeat;
+  background: url('./img/57336a63e2420fdc24096144e5e7239d.jpg') center center / cover no-repeat;
 }
 
 .hero::before {
